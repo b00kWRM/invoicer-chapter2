@@ -1,5 +1,5 @@
 # These environment variables must be set in CircleCI UI
-#
+# Added comment to have something to update.
 # DOCKER_EMAIL   - login info for docker hub
 # DOCKER_USER
 # DOCKER_PASS
